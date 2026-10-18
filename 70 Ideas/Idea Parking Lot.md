@@ -1,0 +1,1 @@
+One line per idea. Date it. Don't develop it until the course is done.

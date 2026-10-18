@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "5f75aba1e6fe6e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d2ce39b1225f21e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b847158bbfd1b04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "70 Ideas/Idea Parking Lot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Idea Parking Lot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0552e9d5d74d72f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "19905a32c862e25c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db7428b6c89cf989",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f862c091bbd61f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "64f11132da930e43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "1d85a70aa4c78b27",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16303aeb89dea6f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd020d9e1f76bcb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d9276dcf9e76282",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "70 Ideas/Idea Parking Lot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5551cfe002573678",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "70 Ideas/Idea Parking Lot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "126761b17f137521",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8035d678be2e0b49",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f9d9cb58a0c4d63d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "70 Ideas/Idea Parking Lot.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b847158bbfd1b04f",
+  "lastOpenFiles": [
+    "Home.md",
+    "70 Ideas/Idea Parking Lot.md",
+    "Lesson Tracker.base",
+    "Idea Parking Lot.md",
+    "Course Link.md",
+    "60 Daily/2026-10-18.md",
+    "90 Templates/Lesson.md",
+    "90 Templates/World.md",
+    "90 Templates/Book.md",
+    "90 Templates/Study Note.md",
+    "90 Templates/Scene.md",
+    "90 Templates/Character.md",
+    "90 Templates/Daily.md",
+    "Welcome.md",
+    "90 Templates",
+    "70 Ideas",
+    "60 Daily",
+    "50 Study Notes",
+    "40 Reading",
+    "30 Manuscript/Practice",
+    "30 Manuscript",
+    "20 Coure project/Boards",
+    "20 Coure project/Plot"
+  ]
+}
